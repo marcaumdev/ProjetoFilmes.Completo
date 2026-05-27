@@ -76,6 +76,16 @@ builder.Services.AddSwaggerGen(options =>
 // Adiciona serviço de Controllers
 builder.Services.AddControllers();
 
+builder.Services.AddCors(options =>
+{
+    options.AddPolicy("CorsPolicy", policy =>
+    {
+        policy.AllowAnyOrigin()
+              .AllowAnyMethod()
+              .AllowAnyHeader();
+    });
+});
+
 var app = builder.Build();
 
 app.UseAuthentication();
@@ -92,6 +102,8 @@ if (app.Environment.IsDevelopment())
         options.RoutePrefix = string.Empty;
     });
 }
+
+app.UseCors("CorsPolicy");
 
 // Adicione mapeamento de Controllers
 app.MapControllers();

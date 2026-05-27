@@ -3630,11 +3630,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Marcos Vinicius\\Desktop\\FIlmes.API\\Filmes.API.csproj",
+      "projectUniqueName": "C:\\Users\\Marcos Vinicius\\Desktop\\Filmes\\FIlmes.API\\Filmes.API.csproj",
       "projectName": "Filmes.API",
-      "projectPath": "C:\\Users\\Marcos Vinicius\\Desktop\\FIlmes.API\\Filmes.API.csproj",
+      "projectPath": "C:\\Users\\Marcos Vinicius\\Desktop\\Filmes\\FIlmes.API\\Filmes.API.csproj",
       "packagesPath": "C:\\Users\\Marcos Vinicius\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Marcos Vinicius\\Desktop\\FIlmes.API\\obj\\",
+      "outputPath": "C:\\Users\\Marcos Vinicius\\Desktop\\Filmes\\FIlmes.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
