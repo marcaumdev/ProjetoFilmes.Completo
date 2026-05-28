@@ -1,4 +1,5 @@
-﻿using FIlmes.API.Interfaces;
+﻿using Filmes.API.DTO;
+using FIlmes.API.Interfaces;
 using FIlmes.API.Models;
 using Microsoft.AspNetCore.Mvc;
 
@@ -30,11 +31,16 @@ namespace Filmes.API.Controllers
         }
 
         [HttpPost]
-        public IActionResult Post(Genero genero)
+        public IActionResult Post(GeneroDTO genero)
         {
             try
             {
-                _generoRepository.Cadastrar(genero);
+                var novoGenero = new Genero
+                {
+                    Nome = genero.Nome
+                };
+
+                _generoRepository.Cadastrar(novoGenero);
                 return StatusCode(201);
             }
             catch (Exception e)
@@ -57,11 +63,17 @@ namespace Filmes.API.Controllers
         }
 
         [HttpPut("{id}")]
-        public IActionResult Put(int id, Genero genero)
+        public IActionResult Put(int id, GeneroDTO genero)
         {
             try
             {
-                _generoRepository.AtualizarIdUrl(id, genero);
+                var generoAtualizado = new Genero
+                {
+                    IdGenero = id,
+                    Nome = genero.Nome,
+                };
+
+                _generoRepository.AtualizarIdUrl(id, generoAtualizado);
 
                 return NoContent();
             }

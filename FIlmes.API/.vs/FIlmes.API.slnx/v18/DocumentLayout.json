@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Marcos Vinicius\\Desktop\\Filmes\\FIlmes.API\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F8F3B1CE-073F-A892-130D-38EBC4DCCD39}|Filmes.API.csproj|c:\\users\\marcos vinicius\\desktop\\filmes\\filmes.api\\controllers\\generocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8F3B1CE-073F-A892-130D-38EBC4DCCD39}|Filmes.API.csproj|solutionrelative:controllers\\generocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8F3B1CE-073F-A892-130D-38EBC4DCCD39}|Filmes.API.csproj|c:\\users\\marcos vinicius\\desktop\\filmes\\filmes.api\\dto\\generodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8F3B1CE-073F-A892-130D-38EBC4DCCD39}|Filmes.API.csproj|solutionrelative:dto\\generodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8F3B1CE-073F-A892-130D-38EBC4DCCD39}|Filmes.API.csproj|c:\\users\\marcos vinicius\\desktop\\filmes\\filmes.api\\dto\\filmedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8F3B1CE-073F-A892-130D-38EBC4DCCD39}|Filmes.API.csproj|solutionrelative:dto\\filmedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F8F3B1CE-073F-A892-130D-38EBC4DCCD39}|Filmes.API.csproj|c:\\users\\marcos vinicius\\desktop\\filmes\\filmes.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F8F3B1CE-073F-A892-130D-38EBC4DCCD39}|Filmes.API.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F8F3B1CE-073F-A892-130D-38EBC4DCCD39}|Filmes.API.csproj|c:\\users\\marcos vinicius\\desktop\\filmes\\filmes.api\\controllers\\filmecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F8F3B1CE-073F-A892-130D-38EBC4DCCD39}|Filmes.API.csproj|solutionrelative:controllers\\filmecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F8F3B1CE-073F-A892-130D-38EBC4DCCD39}|Filmes.API.csproj|c:\\users\\marcos vinicius\\desktop\\filmes\\filmes.api\\dto\\filmedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F8F3B1CE-073F-A892-130D-38EBC4DCCD39}|Filmes.API.csproj|solutionrelative:dto\\filmedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F8F3B1CE-073F-A892-130D-38EBC4DCCD39}|Filmes.API.csproj|c:\\users\\marcos vinicius\\desktop\\filmes\\filmes.api\\repositories\\filmerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -31,6 +39,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "GeneroController.cs",
+              "DocumentMoniker": "C:\\Users\\Marcos Vinicius\\Desktop\\Filmes\\FIlmes.API\\Controllers\\GeneroController.cs",
+              "RelativeDocumentMoniker": "Controllers\\GeneroController.cs",
+              "ToolTip": "C:\\Users\\Marcos Vinicius\\Desktop\\Filmes\\FIlmes.API\\Controllers\\GeneroController.cs",
+              "RelativeToolTip": "Controllers\\GeneroController.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAYwCYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T11:13:37.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GeneroDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Marcos Vinicius\\Desktop\\Filmes\\FIlmes.API\\DTO\\GeneroDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\GeneroDTO.cs",
+              "ToolTip": "C:\\Users\\Marcos Vinicius\\Desktop\\Filmes\\FIlmes.API\\DTO\\GeneroDTO.cs",
+              "RelativeToolTip": "DTO\\GeneroDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T11:13:22.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Marcos Vinicius\\Desktop\\Filmes\\FIlmes.API\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -49,13 +83,14 @@
               "RelativeDocumentMoniker": "DTO\\FilmeDTO.cs",
               "ToolTip": "C:\\Users\\Marcos Vinicius\\Desktop\\Filmes\\FIlmes.API\\DTO\\FilmeDTO.cs",
               "RelativeToolTip": "DTO\\FilmeDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-02T19:41:37.239Z"
+              "WhenOpened": "2026-02-02T19:41:37.239Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "FilmeController.cs",
               "DocumentMoniker": "C:\\Users\\Marcos Vinicius\\Desktop\\Filmes\\FIlmes.API\\Controllers\\FilmeController.cs",
               "RelativeDocumentMoniker": "Controllers\\FilmeController.cs",
@@ -63,12 +98,11 @@
               "RelativeToolTip": "Controllers\\FilmeController.cs",
               "ViewState": "AgIAAEQAAAAAAAAAAAAEwL8AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-02T18:54:32.382Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-02T18:54:32.382Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "FilmeRepository.cs",
               "DocumentMoniker": "C:\\Users\\Marcos Vinicius\\Desktop\\Filmes\\FIlmes.API\\Repositories\\FilmeRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\FilmeRepository.cs",
